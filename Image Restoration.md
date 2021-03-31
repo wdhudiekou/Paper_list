@@ -10,14 +10,14 @@ In this repository, we mainly focus on deep learning based Low-level tasks (**Im
     
 --------------------------------------------------------------------------------------
 
-# -----Image Restoration-----
+# --Image Restoration--
 ## 2021       
 **Date** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: | **CVPR** | Multi-Stage Progressive Image Restoration | [Paper](https://arxiv.org/abs/2102.02808)/[Code](https://github.com/swz30/MPRNet)  
 :triangular_flag_on_post: | **TMM** | COLA-Net: Collaborative Attention Network forImage Restoration | [Paper](https://arxiv.org/abs/2103.05961)/[Code](https://github.com/MC-E/COLA-Net)  
 
-# -----Image Enhancement-----     
+# --Image Enhancement--     
 ## 2021 
 **Date** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -37,7 +37,7 @@ In this repository, we mainly focus on deep learning based Low-level tasks (**Im
 :triangular_flag_on_post: | **CVPR** | Attention-guided Network for Ghost-free High Dynamic Range Imaging | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf)/[Code](https://github.com/qingsenyangit/AHDRNet) 
 
 
-# -----Image Deraining-----     
+# --Image Deraining--     
 
 ## 2021       
 **Date** | **Pub.** | **Title** | **Links** 
@@ -57,13 +57,13 @@ In this repository, we mainly focus on deep learning based Low-level tasks (**Im
 :triangular_flag_on_post: | **Arxiv** | Single Image Deraining with Continuous Rain Density Estimation  | [Paper](https://arxiv.org/abs/2006.03190)/[Code](https://github.com/Achhhe/CODE-Net)  
 
 
-# -----Image Denoising-----     
+# --Image Denoising--     
 ## 2020       
 **Date** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: | **ECCV** | Spatial-Adaptive Network for Single Image Denoising | [Paper](https://arxiv.org/abs/2001.10291)/[Code](https://github.com/JimmyChame/SADNet)  
 
-# -----Image Dehazing-----   
+# --Image Dehazing--   
 ## 2021       
 **Date** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -77,7 +77,7 @@ In this repository, we mainly focus on deep learning based Low-level tasks (**Im
 :triangular_flag_on_post: | **TIP** | Zero-Shot Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9170880)/[Code](https://github.com/liboyun/ZID) 
 
 
-# -----Super-Resolution-----     
+# --Super-Resolution--     
 ## 2020       
 **Date** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-:  
